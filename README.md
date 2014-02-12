@@ -1,6 +1,6 @@
 Applied Energistics Localization
 ==================================================
-No new builds will be released for AE1, thanks everyone whoe help translate AE1, I hope we can continue with AE2, https://github.com/AlgorithmX2/AppliedEnergistics-2-Localization see you on the other side.
+No new builds will be released for AE1, thanks to everyone who helped translate AE1, I hope we can continue with AE2, https://github.com/AlgorithmX2/AppliedEnergistics-2-Localization see you on the other side.
 
 ### Encoding
 
